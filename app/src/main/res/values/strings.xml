@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Presentation Card</string>
+    <string name="nombre_text">For a Better Future</string>
+    <string name="cargo_text">CEO</string>
+    <string name="telefono_text">+51 933 456 147</string>
+    <string name="pagina_web_text">www.fbf.pe</string>
+    <string name="correo_text">cseminario@fbf.com</string>
+</resources>
